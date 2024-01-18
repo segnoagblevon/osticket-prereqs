@@ -25,7 +25,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Configure permissions and install osTicket
 
 <h2>Installation Steps</h2>
+- <b>Install / Enable IIS in Windows with CGI and Common HTTP Features</b>
 
+    ![image](https://github.com/segnoagblevon/osticket-prereqs/assets/120741777/cf97a4ce-7b31-43a8-b1b4-0bbcc4e25e18)
+
+  
+- <b>Install / Enable IIS Management Console</b>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
